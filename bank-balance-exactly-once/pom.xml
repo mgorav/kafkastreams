@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.simplesteph.udemy.kafka.streams</groupId>
+    <groupId>com.gonnect.kafka.streams</groupId>
     <artifactId>bank-balance-exactly-once</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -79,7 +79,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.github.simplesteph.udemy.kafka.streams.BankBalanceExactlyOnce</mainClass>
+                            <mainClass>com.gonnect.kafka.streams.BankBalanceExactlyOnce</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

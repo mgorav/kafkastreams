@@ -5,8 +5,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.simplesteph.udemy.kafka.streams</groupId>
-    <artifactId>kafka-streams-course-parent-project</artifactId>
+    <groupId>com.gonnect.kafka.streams</groupId>
+    <artifactId>kafkastreams</artifactId>
     <version>0.11</version>
 
 

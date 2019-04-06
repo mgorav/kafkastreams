@@ -1,5 +1,5 @@
 name := "favourite-colour-scala"
-organization        := "com.github.simplesteph.udemy.kafka.streams"
+organization        := "com.gonnect.kafka.streams"
 version             := "1.0-SNAPSHOT"
 scalaVersion := "2.12.3"
 
